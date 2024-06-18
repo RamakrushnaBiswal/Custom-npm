@@ -11,6 +11,9 @@
     "npm",
     "figlet readme"
   ],
+  "bin": {
+    "ram": "index.js"
+  },
   "author": "Ramakrushna biswal",
   "license": "ISC",
   "dependencies": {

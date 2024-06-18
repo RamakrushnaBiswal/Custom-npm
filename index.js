@@ -1,7 +1,9 @@
+#!/usr/bin/env node
+
 const figlet = require("figlet");
 var term = require("terminal-kit").terminal;
 const gradient = require("gradient-string");
-function Ram() {
+function ram() {
 
 term.cyan(figlet.textSync('Ramakrushna Biswal', { font: "Doom"}));
   term.yellow(
@@ -24,4 +26,4 @@ term.cyan(figlet.textSync('Ramakrushna Biswal', { font: "Doom"}));
   console.log(duck);
 
 }
-module.exports = Ram;
+ram()
