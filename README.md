@@ -1,7 +1,8 @@
 ## Ram-code😎
 This is a CLI to create readme files with figlet.
-![Build Status](![code](https://github.com/RamakrushnaBiswal/Custom-npm/assets/125277258/ce4cb9fc-cb2b-4986-b73a-c9fd6353be28)
-)
+<br>
+![Build Status](https://github.com/RamakrushnaBiswal/Custom-npm/assets/125277258/ce4cb9fc-cb2b-4986-b73a-c9fd6353be28)
+
 
 ## Technologies used
  * [figlet](https://www.npmjs.com/package/figlet)
