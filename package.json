@@ -1,6 +1,6 @@
 {
   "name": "ram-npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "1st npm package",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "figlet readme"
   ],
   "bin": {
-    "ram": "index.js"
+    "ram": "./index.js"
   },
   "author": "Ramakrushna biswal",
   "license": "ISC",
