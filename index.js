@@ -17,7 +17,7 @@ term.cyan(figlet.textSync('Ramakrushna Biswal', { font: "Doom"}));
   term.yellow("\n   G-dev:  "),console.log(gradient.instagram("https://g.dev/ramakrushna-biswal"))
   term.yellow("\n\n🌟 Excited to embark on coding adventures with you! 🌟\n");
 
-  let duck = gradient("passion", "red").multiline(
+  let duck = gradient("rainbow","blue").multiline(
     ["\n\n👋🏼 Have a great day! 👋🏼",
         "::====================>"
     ].join("\n")

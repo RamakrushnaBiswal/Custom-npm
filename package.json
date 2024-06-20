@@ -1,7 +1,7 @@
 {
-  "name": "ram-npm",
-  "version": "1.0.3",
-  "description": "1st npm package",
+  "name": "ram-code",
+  "version": "1.0.4",
+  "description": "Contat me through CLI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
